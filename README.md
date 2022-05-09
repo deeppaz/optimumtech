@@ -5,7 +5,7 @@ My purpose of starting this project is to start for the youtube channel called _
 
 ## Features
 
--   [] Make header with 3D modals
+-   [x] Make header with 3D modals
 -   [] Make grid menu for youtube videos
 -   [] Make Make about, contact pages
 -   [] Make starting page
