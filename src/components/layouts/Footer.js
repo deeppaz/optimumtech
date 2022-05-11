@@ -4,11 +4,11 @@ export default function Footer() {
   return (
     <div>
       <h2>
-        There's not the smallest orb
+        PC Hardware, Benchmarks,
         <br />
-        which thou behold'st but in his motion
+        and tech related videos for
         <br />
-        like an angel sings —
+        the PC enthusiast.
       </h2>
     </div>
   );
