@@ -8,7 +8,9 @@ import {
   ContactShadows,
   useGLTF,
   Stage,
-  Text
+  Text,
+  ScrollControls,
+  Scroll
 } from "@react-three/drei";
 import OverlayPages from "../pages/Overlay";
 import GPU from "../components/gltf/GPU";
@@ -75,6 +77,7 @@ export default function Main() {
               scale={4}
             />
           </Stage>
+
           <BakeShadows />
           <ContactShadows
             rotation-x={Math.PI / 2}

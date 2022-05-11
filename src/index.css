@@ -73,6 +73,10 @@ body {
   }
 }
 
+.loader-background{
+  background-color: #e6e5e5;
+}
+
 a {
   pointer-events: all;
   position: absolute;
