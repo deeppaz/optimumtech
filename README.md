@@ -22,7 +22,7 @@ My purpose of starting this project is to start for the youtube channel called _
 - [CPU 3D Model](https://skfb.ly/6REJG)
 - [GPU 3D Model](https://skfb.ly/6WMnP)
 
-
+https://github.com/nickmcmillan/nick.computer
 ## LICENCE
 
 - [MIT](https://github.com/deeppaz/optimumtech/blob/master/LICENSE)
