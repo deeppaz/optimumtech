@@ -7,7 +7,7 @@ import Footer from "./components/layouts/Footer";
 //pages
 import Main from "./pages/Main";
 import About from "./pages/About";
-import Videos from "./pages/Videos";
+import Videos from "./pages/YoutubeFetchVideo";
 
 export const breakpoint = 768
 function App() {

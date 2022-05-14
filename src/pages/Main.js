@@ -1,38 +1,18 @@
 import React, { Suspense } from "react";
-import { Canvas, useThree } from "@react-three/fiber";
+import { Canvas } from "@react-three/fiber";
 import {
   BakeShadows,
-  Bounds,
-  useBounds,
   OrbitControls,
   ContactShadows,
-  useGLTF,
-  Stage,
-  Text,
-  ScrollControls,
-  Scroll
+  Stage 
 } from "@react-three/drei";
 import OverlayPages from "../pages/Overlay";
 import GPU from "../components/gltf/GPU";
 import CPU from "../components/gltf/CPU";
-import Rig from "../components/fiber/Rig";
+// import Rig from "../components/fiber/Rig";
 import Loader from "../components/loader";
 
-// function Caption({ children }) {
-//   const { width } = useThree((state) => state.viewport)
-//   return (
-//     <Text
-//       position={[0, 0, -5]}
-//       lineHeight={0.8}
-//       font="/Ki-Medium.ttf"
-//       fontSize={width / 8}
-//       material-toneMapped={false}
-//       anchorX="center"
-//       anchorY="middle">
-//       {children}
-//     </Text>
-//   )
-// }
+
 
 export default function Main() {
   return (

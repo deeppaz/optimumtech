@@ -6,8 +6,8 @@ My purpose of starting this project is to start for the youtube channel called _
 ## Features
 
 -   [X] Make header with 3D models 
--   [] Make grid menu for youtube videos
--   [] Make Make about, contact pages
+-   [x] Make grid menu for youtube videos
+-   [x] Make pages
 -   [] Make starting page
 
 ## Credits
@@ -16,6 +16,7 @@ My purpose of starting this project is to start for the youtube channel called _
 - ThreeJS
 - @react-three/fiber
 - @react-three/drei
+- YouTube Data API v3
 
 ## Resource
 

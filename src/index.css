@@ -123,7 +123,7 @@ body {
 
 .logo-left-bottom-text{
   position: absolute;
-  top: 60px;
+  top: 70px;
   color: white;
   padding-left: 3px;
   text-shadow: 0 0 2px #14a7e0;
@@ -136,6 +136,18 @@ body {
 
 .navbar-a:hover{
   color: #14a7e0;
+}
+.asection{
+  margin: 0 40px 40px 40px;
+  max-height: 500px;
+  overflow: scroll;
+  position: relative;
+  top: 100px;
+  scrollbar-width: none;
+}
+
+.asection::-webkit-scrollbar{
+  display: none;
 }
 
 /* a {
